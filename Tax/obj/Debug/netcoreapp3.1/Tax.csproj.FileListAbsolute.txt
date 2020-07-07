@@ -1,0 +1,10 @@
+C:\Users\Mariane\Documents\cursos\udemy\csharpcompleto2019\secao10\rep\mariane\Tax\bin\Debug\netcoreapp3.1\Tax.exe
+C:\Users\Mariane\Documents\cursos\udemy\csharpcompleto2019\secao10\rep\mariane\Tax\bin\Debug\netcoreapp3.1\Tax.deps.json
+C:\Users\Mariane\Documents\cursos\udemy\csharpcompleto2019\secao10\rep\mariane\Tax\bin\Debug\netcoreapp3.1\Tax.runtimeconfig.json
+C:\Users\Mariane\Documents\cursos\udemy\csharpcompleto2019\secao10\rep\mariane\Tax\bin\Debug\netcoreapp3.1\Tax.runtimeconfig.dev.json
+C:\Users\Mariane\Documents\cursos\udemy\csharpcompleto2019\secao10\rep\mariane\Tax\bin\Debug\netcoreapp3.1\Tax.dll
+C:\Users\Mariane\Documents\cursos\udemy\csharpcompleto2019\secao10\rep\mariane\Tax\bin\Debug\netcoreapp3.1\Tax.pdb
+C:\Users\Mariane\Documents\cursos\udemy\csharpcompleto2019\secao10\rep\mariane\Tax\obj\Debug\netcoreapp3.1\Tax.AssemblyInfoInputs.cache
+C:\Users\Mariane\Documents\cursos\udemy\csharpcompleto2019\secao10\rep\mariane\Tax\obj\Debug\netcoreapp3.1\Tax.AssemblyInfo.cs
+C:\Users\Mariane\Documents\cursos\udemy\csharpcompleto2019\secao10\rep\mariane\Tax\obj\Debug\netcoreapp3.1\Tax.dll
+C:\Users\Mariane\Documents\cursos\udemy\csharpcompleto2019\secao10\rep\mariane\Tax\obj\Debug\netcoreapp3.1\Tax.pdb
